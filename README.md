@@ -2,6 +2,9 @@
 
 Bu loyiha FastAPI asosida yaratilgan zamonaviy **To-Do List** ilovasi bo‘lib, foydalanuvchilarga shaxsiy va guruh vazifalarini yaratish, boshqarish va eslatmalar olish imkonini beradi. Loyihada foydalanuvchilar o‘rtasidagi do‘stlik, guruh ishlari, eslatmalar va taglar tizimi mavjud.
 
+!!! hozircha friend qo'shish to'g'ridan to'g'ri amalga oshiriladi. FriendRequest qo'shilmagan
+!!! Tag va Notificationlar ham qo'shilmagan.
+
 ---
 
 ## ✨ Xususiyatlar
